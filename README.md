@@ -2,10 +2,10 @@
 
 My practice roadmap for enhancing AWS skills.
 
-#### Coursera (~ 9/30)
-- AWS Cloud Technical Essentials
+#### Coursera 
+- [X] AWS Cloud Technical Essentials (10/6)
 
-#### Certifications (~ 12/31)
-- AWS Cloud Practitioners
-- AWS Machine Learning 
+#### Certifications 
+- [ ] AWS Cloud Practitioners (10/15)
+- [ ] AWS Machine Learning (11/15)
  
