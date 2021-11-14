@@ -7,5 +7,5 @@ My practice roadmap for enhancing AWS skills.
 
 #### Certifications 
 - [X] AWS Cloud Practitioners (10/15) - passed
-- [ ] AWS Machine Learning (11/15)
+- [X] AWS Machine Learning (11/15) - passed 
  
